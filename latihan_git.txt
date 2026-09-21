@@ -2,4 +2,4 @@ nama saya : wafiqa
 1. sekarang create directori
 2. comit pertama
 3. push pertama
-4. comit ke dua
+4. commit ke dua
